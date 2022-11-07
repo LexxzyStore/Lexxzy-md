@@ -15,7 +15,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '0e92565522',
+	'https://zenzapis.xyz': 'be1f8d9c360f',
 }
 
 // Other
@@ -33,7 +33,7 @@ global.sp = ''
 
 // Setting Mess
 global.mess = {
-    success: '✅Done',
+    success: '✅Done ka',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
