@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6289517640421']
+global.ownernomer = "6289517640421"
+global.premium = ['6289517640421']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'xysa bot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
+global.mygit = 'https://github.com/LexxzyStore'
+global.myyt = 'https://youtube.com/channel/UCp9KK1HN-yDxi09cmuILFnQ'
 global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygc = "https://chat.whatsapp.com/Fk2qyvSEzLzDE8Zihy5EyA"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Xysa Botz'
+global.akulaku = 'Bot By Saa'
+global.ytname = 'Lexxzy Store' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
