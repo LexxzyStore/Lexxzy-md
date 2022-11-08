@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6289517640421']
-global.ownernomer = "6289517640421"
-global.premium = ['6289517640421']
+global.owner = ['6283893305106']
+global.ownernomer = "6283893305106"
+global.premium = ['6283893305106']
 global.packname = 'Sticker By'
-global.author = 'xysa bot'
+global.author = 'LexxzyBotz Ofc'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -33,16 +33,16 @@ global.sp = ''
 
 // Setting Mess
 global.mess = {
-    success: '✅Done ka',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    success: 'DONE YA COK√',
+    admin: 'Fitur Ini Khusus Admin Woi',
+    botAdmin: 'Bot Harus Jadi Admin Anj',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    error: 'Error!',
+    owner: 'Fitur Khusus Owner Bot😂',
+    group: 'Fitur Digunakan Hanya Untuk Group Anying🗿',
+    private: 'Fitur Digunakan Hanya Untuk Private Chat Ye😎',
+    bot: 'Fitur Khusus Pengguna Nomor Bot Woi!!!',
+    wait: 'Loanjing ( loading )...',
+    error: 'Erorr kack!😂',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
     errmor: 'Error Kesalahan Sistem',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
@@ -65,8 +65,8 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/Fk2qyvSEzLzDE8Zihy5EyA"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'Xysa Botz'
-global.akulaku = 'Bot By Saa'
+global.botname = 'Lexxzy Botz'
+global.akulaku = 'Bot By Lexxzy'
 global.ytname = 'Lexxzy Store' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
