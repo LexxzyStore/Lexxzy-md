@@ -10,14 +10,14 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/e661734204ce5f21b185b.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/95b987c32c34bd273efe1.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NAZE DEV</h1>
+<h1 align="center">LEXXZY DEV</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/nazedev/naze-md) (`MULTI DEVICE `)
+* New script to replace this script [`look here`](https://github.com/LexxzyStore/Lexxzy-md) (`MULTI DEVICE `)
 * WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow) (SC ORI)
 * WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 * WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
@@ -31,8 +31,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/nazedev/naze-md
-cd naze
+git clone https://github.com/LexxzyStore/Lexxzy-md
+cd nama file
 npm install
 ```
 
@@ -52,8 +52,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/nazedev/naze-md
-cd naze
+git clone https://github.com/LexxzyStore/Lexxzy-md
+cd nama file
 npm install
 ```
 
